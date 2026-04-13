@@ -22,7 +22,7 @@ The program does the following:
                 Moreover, the calculation starts from the end of the line.
          5.2.2. The resulting value is multiplied by a power of eight.
          5.2.3. The value obtained in the previous step is added to the decimal number variable.
-         5.2.4. The variable of the factor of power 16 is multiplied by 16, since the number is octal.
+         5.2.4. The variable of the factor of power 16 is multiplied by 16, since the number is hexadecimal.
     5.3. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
     5.4. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
   6. The entered hexadecimal number and its representation in the decimal system are displayed on the screen. 

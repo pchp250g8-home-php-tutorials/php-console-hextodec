@@ -3,7 +3,7 @@ A console application in the PHP programming language.
 The program does the following:
   1. Asks the user to enter a string.
   2. Checks whether the entered string is valid.
-     It must be less than 8 characters long and contain only the numbers between 0 and 9 and the letters between A(a) and F(f).
+     It must be less than 9 characters long and contain only the numbers between 0 and 9 and the letters between A(a) and F(f).
   3. If the string does not meet the above conditions, it displays the message "incorrect hexadecimal number format" and exits.
   4. If the line meets the above conditions,
      A variable is introduced for the value of the decimal number and the multiplier to the power of 16 with initial values ​​of 0 and 1, respectively.
@@ -33,7 +33,7 @@ HexToDec. Занятия по PHP. Консольное приложение. П
 Программа делает следующее:
   1. Просит пользователя ввести строку.
   2. Проверяет правильная ли строка была введена.
-     Она должна быть короче 8 символов и содержать только цифры от 0 до 9 и буквы от A(a) до F(f).
+     Она должна быть короче 9 символов и содержать только цифры от 0 до 9 и буквы от A(a) до F(f).
   3. Если строка не соответсвует выше перечисленным условиям выводит сообщение "неправильный формат шестнадцатиричного числа" и завершает работу.
   4. Если строка соответствует выше перечисленным условиям,
      вводится переменная для значения десятичного числа и множителя степени 16 с начальными значениями 0 и 1 соответсвенно.
